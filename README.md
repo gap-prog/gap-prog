@@ -13,7 +13,7 @@
 			<a href="https://open.kattis.com/users/4kvs4xs9">
 				<img src="https://open.kattis.com/images/site-logo?v=50ef049acd5158e8b1df78aea2008ba3" alt="Open Kattis Logo" width=50 height=50>
 			</a>
-			<a href="https://codeforces.com/profile/gpprog">
+			<a href="https://www.codechef.com/users/gapprog">
 				<img src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="CodeChef Logo" width=50 height=50>
 			</a>
 			<a href="https://leetcode.com/gpprog/">
@@ -22,7 +22,7 @@
 			<a href="https://codeforces.com/profile/gpprog">
 				<img src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3629285-3031869.png" alt="CodeForces Logo" width=50 height=50>
 			</a>
-			<a href="https://cses.fi/logo.png">
+			<a href="https://cses.fi/user/146769">
 				<img src="https://cses.fi/logo.png" alt="CSES Logo" width=120 height=60>
 			</a>
 		</div>
