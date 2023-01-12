@@ -65,7 +65,7 @@
 
 ## :hammer_and_wrench: Tech Stack
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+<div align=center>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width=50 height=50>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="Numpy Logo" width=50 height=50>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django Logo" width=50 height=50>
@@ -77,16 +77,17 @@
 	<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="GoLang Logo" width=50 height=50>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width=50 height=50>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS Logo" width=50 height=50>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" alt="Svelte Logo" width=50 height=50>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C Logo" width=50 height=50>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java Logo" width=50 height=50>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5 Logo" width=50 height=50>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3 Logo" width=50 height=50>
+</div>
+<div align=center>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass Logo" width=50 height=50>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS Logo" width=50 height=50>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash Logo" width=50 height=50>
-</div>
-<div align=center>
-  <img src="https://mathvault.ca/wp-content/uploads/latex-logo1.jpg" alt="LaTeX Logo" width=75 height=50>
+  	<img src="https://mathvault.ca/wp-content/uploads/latex-logo1.jpg" alt="LaTeX Logo" width=75 height=50>
 	<img src="https://grafxflow.co.uk/storage/app/uploads/public/5ad/e5b/d9b/thumb_891_266_0_0_0_auto.png" alt="Markdown Logo" width=75 height=50>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="VIM Logo" width=50 height=50>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode Logo" width=50 height=50>
