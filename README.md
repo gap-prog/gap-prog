@@ -54,7 +54,7 @@
 - 🥇 <a href="https://github.com/gap-prog/Competitive-Programming">Competitive Programming Repository</a>
 	- A collection of solutions, tutorials, and setup settings for competitive programming.
 
-- 🥫 <a href="https://github.com/gap-prog/Don't Waste">Don't Waste</a>
+- 🥫 <a href="https://github.com/gap-prog/Dont-Waste">Don't Waste</a>
 	- NC State University hackathon submission that connects food waste to people in need.
 
 - 🧬 <a href="https://github.com/gap-prog/Cancer-Analysis-2021">Cancer Analysis</a>
