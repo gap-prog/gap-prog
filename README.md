@@ -51,16 +51,16 @@
 
 ## 🗂 Projects
 
-- 🥇 Competitive Programming Repository
+- 🥇 <a href="https://github.com/gap-prog/Competitive-Programming">Competitive Programming Repository</a>
 	- A collection of solutions, tutorials, and setup settings for competitive programming.
 
-- 🥫 Don't Waste
+- 🥫 <a href="https://github.com/gap-prog/Don't Waste">Don't Waste</a>
 	- NC State University hackathon submission that connects food waste to people in need.
 
-- 🧬 Cancer Analysis
+- 🧬 <a href="https://github.com/gap-prog/Cancer-Analysis-2021">Cancer Analysis</a>
 	- Analysis of cancer that includes machine learning algorithms for cancer predictions.
 
-- 📺 WannaWatch
+- 📺 <a href="https://github.com/gap-prog/Wanna-Watch">WannaWatch</a>
 	- Hackathon submission which serves as a protal for groups of people to decide on the movie they want to watch.
 
 ## :hammer_and_wrench: Tech Stack
