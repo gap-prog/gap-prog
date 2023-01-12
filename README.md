@@ -74,6 +74,8 @@
 	<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++ Logo" width=50 height=50>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Dart Logo" width=50 height=50>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter Logo" width=50 height=50>
+</div>
+<div align=center>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="GoLang Logo" width=50 height=50>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width=50 height=50>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS Logo" width=50 height=50>
@@ -92,6 +94,8 @@
 	<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="VIM Logo" width=50 height=50>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode Logo" width=50 height=50>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" alt="Xcode Logo" width=50 height=50>
+</div>
+<div align=center>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio Logo" width=50 height=50>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM Logo" width=50 height=50>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git Logo" width=50 height=50>
