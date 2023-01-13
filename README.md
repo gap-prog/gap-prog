@@ -4,8 +4,8 @@
 	<br>
 	<div style="display: flex; justify-content: space-between; align-items: center">
 		<div class="main_links">
-			<a href="https://www.kaggle.com/gboxpro">
-				<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="Kaggle Logo" width=50 height=50>
+			<a href="https://www.codechef.com/users/gapprog">
+				<img src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="CodeChef Logo" width=50 height=50>
 			</a>
 			<a href="https://www.hackerrank.com/profile/gpprog">
 				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="HackerRank Logo" width=50 height=50>
@@ -13,8 +13,11 @@
 			<a href="https://open.kattis.com/users/4kvs4xs9">
 				<img src="https://open.kattis.com/images/site-logo?v=50ef049acd5158e8b1df78aea2008ba3" alt="Open Kattis Logo" width=50 height=50>
 			</a>
-			<a href="https://www.codechef.com/users/gapprog">
-				<img src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="CodeChef Logo" width=50 height=50>
+			<a href="https://www.kaggle.com/gboxpro">
+				<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="Kaggle Logo" width=50 height=50>
+			</a>
+			<a href="https://auth.geeksforgeeks.org/user/gpprog">
+				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/2560px-GeeksforGeeks.svg.png" alt="GeeksForGeeks Logo" width=85 height=50>
 			</a>
 			<a href="https://leetcode.com/gpprog/">
 				<img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="LeetCode Logo" width=50 height=50>
@@ -50,6 +53,9 @@
 - 📈 Kaggle Certificate for Data Visualization
 
 ## 🗂 Projects
+
+- 📓 <a href="https://text2passage.com">text2passage.com</a>
+	- A website that converts any text into a standardized test format
 
 - 🥇 <a href="https://github.com/gap-prog/Competitive-Programming">Competitive Programming Repository</a>
 	- A collection of solutions, tutorials, and setup settings for competitive programming.
