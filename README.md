@@ -36,7 +36,7 @@
 	</div>
 </div>
 
-## 🧑 About
+## 😎 About
 
 ## 🌟 Certifications
 
