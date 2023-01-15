@@ -36,8 +36,6 @@
 	</div>
 </div>
 
-## 😎 About
-
 ## 🌟 Certifications
 
 - 🌐 Udemy Certificate for Web Developmet
