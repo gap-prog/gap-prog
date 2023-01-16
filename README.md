@@ -67,7 +67,7 @@
 - 📺 <a href="https://github.com/gap-prog/Wanna-Watch">WannaWatch</a>
 	- Hackathon submission which serves as a protal for groups of people to decide on the movie they want to watch.
 
-- ∞ <a href="https://github.com/gap-prog/Twine">Twine Math Games</a>
+- ∞ <a href="https://github.com/gap-prog/Twine">Twine Math Games</a> or view the website <a href="https://gap-prog.github.io/Twine/">here</a>
 	- Interactive web tool to learn math
 
 ## :hammer_and_wrench: Tech Stack
