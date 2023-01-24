@@ -38,7 +38,7 @@
 
 ## 🌟 Certifications
 
-- 🌐 Udemy Certificate for Web Developmet
+- 🌐 Udemy Certificate for Web Development
 
 - 🐍 Kaggle Certificate for Python
 
