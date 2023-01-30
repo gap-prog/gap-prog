@@ -70,7 +70,7 @@
 - 🎮 <a href="https://github.com/gap-prog/Twine">Twine Math Games</a> or view the website <a href="https://gap-prog.github.io/Twine/">here</a>
 	- Interactive web tool to learn math
 
-## :hammer_and_wrench: Tech Stack
+## :hammer_and_wrench: Technologies
 
 <div align=center>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width=50 height=50>
@@ -106,7 +106,7 @@
 	<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width=50 height=50>
 </div>
 
-## :fire: My Stats
+## :fire: Statistics
 <div align=center>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gap-prog&show_icons=true&theme=tokyonight" alt="Stat 1">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=gap-prog&theme=tokyonight" alt="Stat 2">
