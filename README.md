@@ -108,9 +108,9 @@
 
 ## :fire: Statistics
 <div align=center>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gap-prog&show_icons=true&theme=tokyonight" alt="Stat 1">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gap-prog&theme=tokyonight" alt="Stat 2">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gap-prog&layout=compact&langs_count=10&hide=html,css,jupyter%20notebook&theme=tokyonight&card_width=445" alt="Stat 3">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gap-prog&show_icons=true&theme=tokyonight" alt="Stat 1" width=450>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gap-prog&theme=tokyonight" alt="Stat 2" width=450>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gap-prog&layout=compact&langs_count=10&hide=html,css,jupyter%20notebook&theme=tokyonight&card_width=445" alt="Stat 3" width=450>
 </div>
 <hr>
 <div align=center>
